@@ -7,7 +7,7 @@ var transporter = nodemailer.createTransport({
     pass: 'sih2020cw'
   }
 });
-
+"comment by vishal"
 var mailOptions = {
   from: 'sih.codewarriors@gmail.com',
   to: 'shubhankargaikwad2006@gmail.com, sidheehande@gmail.com',
